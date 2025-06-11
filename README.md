@@ -1,1 +1,2 @@
 # Tetris_JAVA_Project
+Tetris is a super addictive puzzle game where you stack falling blocks, called Tetrominoes, to make complete lines. Once a line is full, it disappears, and you get points. It starts off easy but gets faster and harder as you go. It’s simple, yet it really messes with your brain in the best way. Honestly, it’s one of those classic games you can never really get bored of—even if it’s old-school, it still slaps.
